@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/adebola/.dotnet/store/|arch|/|tfm|",
+      "/home/adebola/.nuget/packages"
+    ]
+  }
+}
